@@ -16,10 +16,8 @@
     "types/*"
   ],
   "dependencies": {
-    "coffeescript": "^2.7.0",
     "csv-parse": "^4.4.6",
     "csv-stringify": "^1.0.4",
-    "escape-html": "^1.0.3",
     "is-integer": "^1.0.6",
     "jsonfile": "^2.2.3",
     "stream-transform": "^0.1.1",
@@ -36,6 +34,7 @@
     "babel-loader": "^8.0.6",
     "babelify": "^10.0.0",
     "bower": "^1.8.8",
+    "coffeescript": "^2.7.0",
     "grunt": "^1.5.3",
     "grunt-babel": "^8.0.0",
     "grunt-browserify": "^6.0.0",
